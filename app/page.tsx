@@ -31,7 +31,7 @@ export default function Home() {
   );
 }
 
-export function ArrowDropUpIcon(props: SVGProps<SVGSVGElement>) {
+function ArrowDropUpIcon(props: SVGProps<SVGSVGElement>) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
